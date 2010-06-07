@@ -35,7 +35,7 @@ A, A:link, A:visited {
 A:active, A:hover { background-color: #FFE7A6; }
 
 #company-info {
-  border: 1px solid #9b8669;
+  border: 1px solid #857158;
   padding: 10px;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -58,18 +58,19 @@ A:active, A:hover { background-color: #FFE7A6; }
   margin-top: -8px;
 }
 #contact-info .box {
-  background-color: #978668;
+  background-color: #857158;
   color: #fff;
   font-size: 0.8em;
 }
 
 #email {
-  color: #978668;
+  color: #857158;
   font-size: 1.1em;
 }
 
 .skills {
   padding-top: 1em;
-  font-size: 0.8em;
+  font-size: 0.85em;
   color: #666;
+  line-height: 2.1em;
 }
