@@ -1,0 +1,75 @@
+#footer {
+  margin: 0px;
+  padding-left: 0px;
+          padding-right: 25px;
+          padding-bottom: 0px;
+          vertical-align: bottom;
+          position: fixed;
+          left: 0px;
+          bottom: 0px;
+          width: 100%;          
+          z-index: 50;
+          border-bottom: 1px solid #697371;
+          border-top: 0px solid #F5BA52;
+          font-size: 0.9em;
+  width: 100%;       
+}
+
+#copyright {
+          text-align: right;
+          vertical-align: bottom;
+}
+
+body {
+  margin-top: 75px;
+}
+
+
+A, A:link, A:visited { 
+    padding: 2px;
+    color: #697371; 
+    text-decoration: underline; 
+    font-family: Tahoma, sans-serif;
+}
+
+A:active, A:hover { background-color: #FFE7A6; }
+
+#company-info {
+  border: 1px solid #9b8669;
+  padding: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+
+}
+
+#company-info #name { 
+  font-size: 2.6em;
+  color: #5b5b5b;/*#79664f;*/
+  font-weight: bold;
+}
+
+#company-info #slogan { 
+  font-size: .9em;
+  color: #5b5b5b;
+  padding-bottom: 10px;
+}
+
+#contact-info { 
+  margin-top: -8px;
+}
+#contact-info .box {
+  background-color: #978668;
+  color: #fff;
+  font-size: 0.8em;
+}
+
+#email {
+  color: #978668;
+  font-size: 1.1em;
+}
+
+.skills {
+  padding-top: 1em;
+  font-size: 0.8em;
+  color: #666;
+}
